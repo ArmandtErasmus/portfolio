@@ -11,4 +11,5 @@
 - Extracted election results from Wikipedia and processed the data.
 - Created choropleth maps representing Democratic and Republican electoral votes with distinct color scales.
 - Implemented interactivity and added state abbreviations for clarity.
+![2020 United States Presidential Election Results](2020_usa_presidential_election_results_header.png)
 
