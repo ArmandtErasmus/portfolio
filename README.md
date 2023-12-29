@@ -1,7 +1,9 @@
 # Portfolio
 
-### Education
-BSc Physics - University of Pretoria
+#### Technical Skills: Python, C#, C++, SQL
 
-### Projects
+## Education
+- B.S., Physics | University of Pretoria (_Current_)
+
+## Projects
 stuff here
