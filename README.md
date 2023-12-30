@@ -14,3 +14,7 @@
 
 ![2020 United States Presidential Election Results](2020_usa_presidential_election_results/2020_usa_presidential_election_results_header.png)
 
+### Building a Relational Database and an Interactive Dashboard
+
+![Database Diagram](building_a_relational_database_and_an_interactive_dashboard/database_diagram.png)
+
